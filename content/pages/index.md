@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/11_thumb.jpg
     image_alt: App preview
     title: Sua Empresaà frente na internet
     content: >
