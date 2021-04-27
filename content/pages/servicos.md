@@ -1,7 +1,7 @@
 ---
 title: Serviços
 sections:
-  - section_id: features
+  - section_id: servicos
     type: section_content
     background: gray
     image: images/feature1.png
