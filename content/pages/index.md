@@ -41,7 +41,7 @@ sections:
           auctor.
         actions:
           - label: Learn More
-            url: /features
+            url: /servicos
             style: secondary
             has_icon: true
             icon: arrow-right
