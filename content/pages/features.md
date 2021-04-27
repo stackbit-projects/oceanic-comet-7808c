@@ -39,7 +39,7 @@ sections:
         style: secondary
 seo:
   title: Serviços
-  description: This is the features page
+  description: Serviços de desenvolvimento web bergamota
   extra:
     - name: 'og:type'
       value: website
