@@ -26,7 +26,7 @@ sections:
         content: |
           Tenha um site Responsivo e obtenha mais resultado na internet.
         actions:
-          - label: Learn More
+          - label: Saiba mais
             url: /features
             style: secondary
             has_icon: true
