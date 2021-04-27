@@ -10,7 +10,7 @@ sections:
       Crie sua presença na internet
     actions:
       - label: Saiba Mais
-        url: /features
+        url: /servicos
         style: primary
   - section_id: features
     type: section_features
