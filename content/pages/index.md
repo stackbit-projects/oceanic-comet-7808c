@@ -27,7 +27,7 @@ sections:
           Tenha um site Responsivo e obtenha mais resultado na internet.
         actions:
           - label: Saiba mais
-            url: /features
+            url: /
             style: secondary
             has_icon: true
             icon: arrow-right
