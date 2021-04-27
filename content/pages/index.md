@@ -9,7 +9,7 @@ sections:
     content: |
       Crie sua presença na internet
     actions:
-      - label: Learn More
+      - label: Saiba Mais
         url: /features
         style: primary
   - section_id: features
