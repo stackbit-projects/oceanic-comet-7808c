@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Desenvolvimento de sites Canoas
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
