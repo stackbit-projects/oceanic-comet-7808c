@@ -55,7 +55,7 @@ sections:
           amet nec urna.
         actions:
           - label: Learn More
-            url: /features
+            url: /servicos
             style: secondary
             has_icon: true
             icon: arrow-right
