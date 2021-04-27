@@ -23,10 +23,8 @@ sections:
       - title: Desenvolvimento de Sites Responsivos
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |
+          Tenha um site Responsivo e obtenha mais resultado na internet.
         actions:
           - label: Learn More
             url: /features
