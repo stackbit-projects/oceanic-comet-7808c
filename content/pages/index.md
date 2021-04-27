@@ -27,7 +27,7 @@ sections:
           Tenha um site Responsivo e obtenha mais resultado na internet.
         actions:
           - label: Saiba mais
-            url: /
+            url: /desenvolvimento-de-sites
             style: secondary
             has_icon: true
             icon: arrow-right
