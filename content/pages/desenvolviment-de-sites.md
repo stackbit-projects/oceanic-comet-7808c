@@ -1,6 +1,6 @@
 ---
 title: Desenvolvimento de sites
-subtitle: lorem-ipsum
+subtitle: sites responsivos clientes satisfeitos
 image_alt: lorem-ipsum
 seo:
   title: ''
