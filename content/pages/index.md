@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Sua Empresaà frente na internet
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Somos a agência que ira criar a sua identidade visual na internet, de
+      forma que seu cliente encontre sua marca e se identifique com ela
     actions:
       - label: Learn More
         url: /features
