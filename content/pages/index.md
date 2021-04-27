@@ -6,9 +6,8 @@ sections:
     image: images/11_thumb.jpg
     image_alt: App preview
     title: Sua Empresaà frente na internet
-    content: >
-      Somos a agência que ira criar a sua identidade visual na internet, de
-      forma que seu cliente encontre sua marca e se identifique com ela
+    content: |
+      Crie sua presença na internet
     actions:
       - label: Learn More
         url: /features
